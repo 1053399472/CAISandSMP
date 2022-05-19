@@ -1,0 +1,3133 @@
+[
+    {
+        "text": "查个字谜。",
+        "entities": [
+            {
+                "type": "category",
+                "start_idx": 2,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "上海飞往北京的航班",
+        "entities": [
+            {
+                "type": "endLoc_city",
+                "start_idx": 4,
+                "end_idx": 5
+            },
+            {
+                "type": "startLoc_city",
+                "start_idx": 0,
+                "end_idx": 1
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "我要听稻香",
+        "entities": [
+            {
+                "type": "song",
+                "start_idx": 3,
+                "end_idx": 4
+            }
+        ],
+        "intent": "PLAY"
+    },
+    {
+        "text": "昭通到南昌的汽车。",
+        "entities": [
+            {
+                "type": "Dest",
+                "start_idx": 3,
+                "end_idx": 4
+            },
+            {
+                "type": "Src",
+                "start_idx": 0,
+                "end_idx": 1
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "播放断点",
+        "entities": [
+            {
+                "type": "song",
+                "start_idx": 2,
+                "end_idx": 3
+            }
+        ],
+        "intent": "PLAY"
+    },
+    {
+        "text": "可以找一下浪漫满屋的小说",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 5,
+                "end_idx": 8
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "给周玉发短信",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 1,
+                "end_idx": 2
+            }
+        ],
+        "intent": "SEND"
+    },
+    {
+        "text": "搜索娱乐新闻。",
+        "entities": [
+            {
+                "type": "category",
+                "start_idx": 2,
+                "end_idx": 3
+            }
+        ],
+        "intent": "PLAY"
+    },
+    {
+        "text": "午夜凶铃",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "最近有什么好看得",
+        "entities": [
+            {
+                "type": "scoreDescr",
+                "start_idx": 5,
+                "end_idx": 6
+            },
+            {
+                "type": "timeDescr",
+                "start_idx": 0,
+                "end_idx": 1
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "木瓜汤怎么做",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 0,
+                "end_idx": 2
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "查找科大讯飞股票的股价",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 2,
+                "end_idx": 5
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "帮我找一首我的好兄弟",
+        "entities": [
+            {
+                "type": "song",
+                "start_idx": 7,
+                "end_idx": 9
+            }
+        ],
+        "intent": "SEARCH"
+    },
+    {
+        "text": "现在有什么好的电影呢？",
+        "entities": [
+            {
+                "type": "category",
+                "start_idx": 7,
+                "end_idx": 8
+            },
+            {
+                "type": "datetime_time",
+                "start_idx": 0,
+                "end_idx": 1
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "来个字谜吗？",
+        "entities": [
+            {
+                "type": "category",
+                "start_idx": 2,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "BTV生活节目选择回放",
+        "entities": [
+            {
+                "type": "tvchannel",
+                "start_idx": 0,
+                "end_idx": 4
+            }
+        ],
+        "intent": "LOOK_BACK"
+    },
+    {
+        "text": "红枣鸡汤怎么煲？",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "盐水鸭怎么做？",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 0,
+                "end_idx": 2
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "翻译芬兰",
+        "entities": [
+            {
+                "type": "content",
+                "start_idx": 2,
+                "end_idx": 3
+            }
+        ],
+        "intent": "TRANSLATION"
+    },
+    {
+        "text": "中国共产主义的英文怎么说",
+        "entities": [
+            {
+                "type": "content",
+                "start_idx": 0,
+                "end_idx": 5
+            },
+            {
+                "type": "target",
+                "start_idx": 7,
+                "end_idx": 8
+            }
+        ],
+        "intent": "TRANSLATION"
+    },
+    {
+        "text": "北京财经",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "PLAY"
+    },
+    {
+        "text": "爱情公约",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "怎么炒南瓜？",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 2,
+                "end_idx": 4
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "看毛泽东在武汉的故事",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 1,
+                "end_idx": 9
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "红烧猪脚怎么做啊？",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "即鱼汤怎么做？",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 1,
+                "end_idx": 2
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "查一下运城到临汾的汽车。",
+        "entities": [
+            {
+                "type": "Dest",
+                "start_idx": 6,
+                "end_idx": 7
+            },
+            {
+                "type": "Src",
+                "start_idx": 3,
+                "end_idx": 4
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "全部应答",
+        "entities": [],
+        "intent": "REPLAY_ALL"
+    },
+    {
+        "text": "给我背一首满江红。",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 5,
+                "end_idx": 7
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "仓央嘉措的诗词。",
+        "entities": [
+            {
+                "type": "author",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "怎样给宝宝做胡萝卜泥。",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 6,
+                "end_idx": 9
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "上一期双色球开什么",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 3,
+                "end_idx": 5
+            },
+            {
+                "type": "relIssue",
+                "start_idx": 0,
+                "end_idx": 2
+            }
+        ],
+        "intent": "NUMBER_QUERY"
+    },
+    {
+        "text": "翻译秋天",
+        "entities": [
+            {
+                "type": "content",
+                "start_idx": 2,
+                "end_idx": 3
+            }
+        ],
+        "intent": "TRANSLATION"
+    },
+    {
+        "text": "我的幸福",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "到薛城区怎么走",
+        "entities": [
+            {
+                "type": "endLoc_area",
+                "start_idx": 1,
+                "end_idx": 3
+            }
+        ],
+        "intent": "ROUTE"
+    },
+    {
+        "text": "给吴方婷打电话",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 1,
+                "end_idx": 3
+            }
+        ],
+        "intent": "DIAL"
+    },
+    {
+        "text": "银耳莲子粥怎么做",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 0,
+                "end_idx": 4
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "鱼香肉丝的做法啊！",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "上海到北京怎么走",
+        "entities": [
+            {
+                "type": "endLoc_city",
+                "start_idx": 3,
+                "end_idx": 4
+            },
+            {
+                "type": "startLoc_city",
+                "start_idx": 0,
+                "end_idx": 1
+            }
+        ],
+        "intent": "ROUTE"
+    },
+    {
+        "text": "打开系统软件清理",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 2,
+                "end_idx": 7
+            }
+        ],
+        "intent": "LAUNCH"
+    },
+    {
+        "text": "进你的官网",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 1,
+                "end_idx": 4
+            }
+        ],
+        "intent": "OPEN"
+    },
+    {
+        "text": "烤鸡翅怎么做？",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 0,
+                "end_idx": 2
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "来一首，灵岩。",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 4,
+                "end_idx": 5
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "怎么弄红烧肉哦？",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 3,
+                "end_idx": 5
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "帮我写一封邮件",
+        "entities": [],
+        "intent": "CREATE"
+    },
+    {
+        "text": "发信息给苏建江",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 4,
+                "end_idx": 6
+            }
+        ],
+        "intent": "SEND"
+    },
+    {
+        "text": "我想看一下科大讯飞的股票",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 5,
+                "end_idx": 8
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "小孩子有肺炎的治疗方法有哪些？",
+        "entities": [
+            {
+                "type": "keyword",
+                "start_idx": 4,
+                "end_idx": 5
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "打开会说话的汤姆猫",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 2,
+                "end_idx": 8
+            }
+        ],
+        "intent": "LAUNCH"
+    },
+    {
+        "text": "肩周炎，要怎么治疗。",
+        "entities": [
+            {
+                "type": "keyword",
+                "start_idx": 0,
+                "end_idx": 2
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "素烩汤。",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 0,
+                "end_idx": 2
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "查询上海到北京的航班。",
+        "entities": [
+            {
+                "type": "endLoc_city",
+                "start_idx": 5,
+                "end_idx": 6
+            },
+            {
+                "type": "startLoc_city",
+                "start_idx": 2,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "最近有什么好看电影了？",
+        "entities": [],
+        "intent": "QUERY"
+    },
+    {
+        "text": "胃溃疡。",
+        "entities": [
+            {
+                "type": "keyword",
+                "start_idx": 0,
+                "end_idx": 2
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "帮我定一张去镇江的动车票",
+        "entities": [
+            {
+                "type": "category",
+                "start_idx": 9,
+                "end_idx": 10
+            },
+            {
+                "type": "endLoc_city",
+                "start_idx": 6,
+                "end_idx": 7
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "今天温度是多少",
+        "entities": [
+            {
+                "type": "datetime_date",
+                "start_idx": 0,
+                "end_idx": 1
+            },
+            {
+                "type": "subfocus",
+                "start_idx": 2,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "打开qq找杨佳艺",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 2,
+                "end_idx": 3
+            }
+        ],
+        "intent": "LAUNCH"
+    },
+    {
+        "text": "地三鲜怎么做？你？",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 0,
+                "end_idx": 2
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "打给曾玮文",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 2,
+                "end_idx": 4
+            }
+        ],
+        "intent": "DIAL"
+    },
+    {
+        "text": "附近有没有电影院啊？",
+        "entities": [],
+        "intent": "QUERY"
+    },
+    {
+        "text": "中超比赛，结果。",
+        "entities": [
+            {
+                "type": "category",
+                "start_idx": 0,
+                "end_idx": 1
+            },
+            {
+                "type": "type",
+                "start_idx": 5,
+                "end_idx": 6
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "打开苹果公司的官方网站",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 2,
+                "end_idx": 10
+            }
+        ],
+        "intent": "OPEN"
+    },
+    {
+        "text": "帮我在百度里搜一下东莞到北京的火车",
+        "entities": [
+            {
+                "type": "endLoc_city",
+                "start_idx": 12,
+                "end_idx": 13
+            },
+            {
+                "type": "startLoc_city",
+                "start_idx": 9,
+                "end_idx": 10
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "给我看邮件",
+        "entities": [],
+        "intent": "LAUNCH"
+    },
+    {
+        "text": "给丹丹发信息我一会儿就回来别等我了",
+        "entities": [
+            {
+                "type": "content",
+                "start_idx": 6,
+                "end_idx": 16
+            },
+            {
+                "type": "name",
+                "start_idx": 1,
+                "end_idx": 2
+            }
+        ],
+        "intent": "SEND"
+    },
+    {
+        "text": "湖南卫视明天播什么节目",
+        "entities": [
+            {
+                "type": "datetime_date",
+                "start_idx": 4,
+                "end_idx": 5
+            },
+            {
+                "type": "tvchannel",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "广州恒大比赛谁赢了。",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "肾虚怎么治疗",
+        "entities": [
+            {
+                "type": "keyword",
+                "start_idx": 0,
+                "end_idx": 1
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "米粉肉怎么做？",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 0,
+                "end_idx": 2
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "把李文鼎的号码发给谢服全",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 1,
+                "end_idx": 3
+            },
+            {
+                "type": "receiver",
+                "start_idx": 9,
+                "end_idx": 11
+            }
+        ],
+        "intent": "SENDCONTACTS"
+    },
+    {
+        "text": "国足最新赛程。",
+        "entities": [
+            {
+                "type": "category",
+                "start_idx": 0,
+                "end_idx": 1
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "烧鸡块怎么做？",
+        "entities": [
+            {
+                "type": "ingredient",
+                "start_idx": 1,
+                "end_idx": 2
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "山东台高清",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 0,
+                "end_idx": 2
+            },
+            {
+                "type": "resolution",
+                "start_idx": 3,
+                "end_idx": 4
+            }
+        ],
+        "intent": "PLAY"
+    },
+    {
+        "text": "今天的天气真是好用英语怎么说",
+        "entities": [
+            {
+                "type": "content",
+                "start_idx": 0,
+                "end_idx": 7
+            },
+            {
+                "type": "target",
+                "start_idx": 9,
+                "end_idx": 10
+            }
+        ],
+        "intent": "TRANSLATION"
+    },
+    {
+        "text": "帮我搜索三国杀",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 4,
+                "end_idx": 6
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "来一首剑侠情缘",
+        "entities": [
+            {
+                "type": "song",
+                "start_idx": 3,
+                "end_idx": 6
+            }
+        ],
+        "intent": "PLAY"
+    },
+    {
+        "text": "慕斯的做法。",
+        "entities": [
+            {
+                "type": "ingredient",
+                "start_idx": 0,
+                "end_idx": 1
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "讲个谜语吧，辣。",
+        "entities": [
+            {
+                "type": "category",
+                "start_idx": 2,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "98.4香港电台第四台",
+        "entities": [
+            {
+                "type": "code",
+                "start_idx": 0,
+                "end_idx": 3
+            },
+            {
+                "type": "name",
+                "start_idx": 4,
+                "end_idx": 10
+            }
+        ],
+        "intent": "LAUNCH"
+    },
+    {
+        "text": "伊利股份",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "怎么做卤猪脚",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 3,
+                "end_idx": 5
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "海参怎么做？",
+        "entities": [
+            {
+                "type": "ingredient",
+                "start_idx": 0,
+                "end_idx": 1
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "亚洲能源物流股票",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 0,
+                "end_idx": 5
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "包皮包茎",
+        "entities": [
+            {
+                "type": "keyword",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "该我读新闻。",
+        "entities": [],
+        "intent": "PLAY"
+    },
+    {
+        "text": "明天有火车到襄阳吗",
+        "entities": [
+            {
+                "type": "endLoc_city",
+                "start_idx": 6,
+                "end_idx": 7
+            },
+            {
+                "type": "startDate_date",
+                "start_idx": 0,
+                "end_idx": 1
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "给我打开一下qq",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 6,
+                "end_idx": 7
+            }
+        ],
+        "intent": "LAUNCH"
+    },
+    {
+        "text": "恒大山东鲁能比分是多少？",
+        "entities": [
+            {
+                "type": "homeName",
+                "start_idx": 0,
+                "end_idx": 1
+            },
+            {
+                "type": "awayName",
+                "start_idx": 2,
+                "end_idx": 5
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "田螺怎么炒啊？",
+        "entities": [
+            {
+                "type": "ingredient",
+                "start_idx": 0,
+                "end_idx": 1
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "陈娴TCL股票是涨还是跌了",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 2,
+                "end_idx": 4
+            }
+        ],
+        "intent": "RISERATE_QUERY"
+    },
+    {
+        "text": "帮我查一下明天南昌到广州的飞机票",
+        "entities": [
+            {
+                "type": "endLoc_city",
+                "start_idx": 10,
+                "end_idx": 11
+            },
+            {
+                "type": "startDate_date",
+                "start_idx": 5,
+                "end_idx": 6
+            },
+            {
+                "type": "startLoc_city",
+                "start_idx": 7,
+                "end_idx": 8
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "居然股份股票怎么样",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "给刘志发短信",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 1,
+                "end_idx": 2
+            }
+        ],
+        "intent": "SEND"
+    },
+    {
+        "text": "天津电视台的国际频道，拜托了哈",
+        "entities": [
+            {
+                "type": "category",
+                "start_idx": 6,
+                "end_idx": 7
+            },
+            {
+                "type": "name",
+                "start_idx": 0,
+                "end_idx": 4
+            }
+        ],
+        "intent": "PLAY"
+    },
+    {
+        "text": "打电话给子明",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 4,
+                "end_idx": 5
+            }
+        ],
+        "intent": "DIAL"
+    },
+    {
+        "text": "背诵一首唐诗",
+        "entities": [
+            {
+                "type": "dynasty",
+                "start_idx": 4,
+                "end_idx": 4
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "你会猜谜语吗？",
+        "entities": [
+            {
+                "type": "category",
+                "start_idx": 3,
+                "end_idx": 4
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "打开昆明三六零手机网",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 2,
+                "end_idx": 9
+            }
+        ],
+        "intent": "OPEN"
+    },
+    {
+        "text": "请帮我调频105山东人民广播电台生活频道",
+        "entities": [
+            {
+                "type": "code",
+                "start_idx": 5,
+                "end_idx": 7
+            },
+            {
+                "type": "name",
+                "start_idx": 8,
+                "end_idx": 19
+            }
+        ],
+        "intent": "LAUNCH"
+    },
+    {
+        "text": "罐焖牛肉怎么做？",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 1,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "故宫鱼怎么做？",
+        "entities": [
+            {
+                "type": "ingredient",
+                "start_idx": 0,
+                "end_idx": 2
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "月咏牡丹的下一句，是什么？",
+        "entities": [
+            {
+                "type": "keyword",
+                "start_idx": 0,
+                "end_idx": 3
+            },
+            {
+                "type": "queryField",
+                "start_idx": 5,
+                "end_idx": 7
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "红烧牛肉面我想来一碗。",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 0,
+                "end_idx": 4
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "武汉卓尔的赛程。",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "翻译背首诗",
+        "entities": [
+            {
+                "type": "content",
+                "start_idx": 2,
+                "end_idx": 4
+            }
+        ],
+        "intent": "TRANSLATION"
+    },
+    {
+        "text": "来一首水调歌头。",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 3,
+                "end_idx": 6
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "怎么做鱼呢？",
+        "entities": [
+            {
+                "type": "ingredient",
+                "start_idx": 3,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "查询大大后天广州到武汉的航班",
+        "entities": [
+            {
+                "type": "endLoc_city",
+                "start_idx": 9,
+                "end_idx": 10
+            },
+            {
+                "type": "startDate_date",
+                "start_idx": 2,
+                "end_idx": 5
+            },
+            {
+                "type": "startLoc_city",
+                "start_idx": 6,
+                "end_idx": 7
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "香港杜琪峰导演的喜剧孤男寡女",
+        "entities": [
+            {
+                "type": "area",
+                "start_idx": 0,
+                "end_idx": 1
+            },
+            {
+                "type": "artist",
+                "start_idx": 2,
+                "end_idx": 4
+            },
+            {
+                "type": "artistRole",
+                "start_idx": 5,
+                "end_idx": 6
+            },
+            {
+                "type": "name",
+                "start_idx": 10,
+                "end_idx": 13
+            },
+            {
+                "type": "tag",
+                "start_idx": 8,
+                "end_idx": 9
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "请问牛排怎么做",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 2,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "离我最近的电影院。",
+        "entities": [],
+        "intent": "QUERY"
+    },
+    {
+        "text": "从中山到西安的汽车。",
+        "entities": [
+            {
+                "type": "Dest",
+                "start_idx": 4,
+                "end_idx": 5
+            },
+            {
+                "type": "Src",
+                "start_idx": 1,
+                "end_idx": 2
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "读一首唐诗。",
+        "entities": [
+            {
+                "type": "dynasty",
+                "start_idx": 3,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "我要听中超第二十，八轮的结果。",
+        "entities": [
+            {
+                "type": "category",
+                "start_idx": 3,
+                "end_idx": 4
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "帮我查一下15选5开奖结果",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 5,
+                "end_idx": 8
+            }
+        ],
+        "intent": "NUMBER_QUERY"
+    },
+    {
+        "text": "打开酷狗并随机播放",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 2,
+                "end_idx": 3
+            }
+        ],
+        "intent": "LAUNCH"
+    },
+    {
+        "text": "15号的我愿意",
+        "entities": [
+            {
+                "type": "datetime_date",
+                "start_idx": 0,
+                "end_idx": 2
+            },
+            {
+                "type": "name",
+                "start_idx": 4,
+                "end_idx": 6
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "玄幻小说《武动乾坤》",
+        "entities": [
+            {
+                "type": "category",
+                "start_idx": 0,
+                "end_idx": 1
+            },
+            {
+                "type": "name",
+                "start_idx": 5,
+                "end_idx": 8
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "我想听11年，这首歌哦。",
+        "entities": [
+            {
+                "type": "song",
+                "start_idx": 3,
+                "end_idx": 5
+            }
+        ],
+        "intent": "PLAY"
+    },
+    {
+        "text": "截瘫吧",
+        "entities": [
+            {
+                "type": "keyword",
+                "start_idx": 0,
+                "end_idx": 1
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "去桂林的航班怎样",
+        "entities": [
+            {
+                "type": "endLoc_city",
+                "start_idx": 1,
+                "end_idx": 2
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "福尔摩探案急翻译成英文",
+        "entities": [
+            {
+                "type": "content",
+                "start_idx": 0,
+                "end_idx": 5
+            },
+            {
+                "type": "target",
+                "start_idx": 9,
+                "end_idx": 10
+            }
+        ],
+        "intent": "TRANSLATION"
+    },
+    {
+        "text": "刘禹锡的秋词。",
+        "entities": [
+            {
+                "type": "author",
+                "start_idx": 0,
+                "end_idx": 2
+            },
+            {
+                "type": "name",
+                "start_idx": 4,
+                "end_idx": 5
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "播放落日批示",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 2,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "华晶小学在哪里",
+        "entities": [
+            {
+                "type": "location_poi",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "POSITION"
+    },
+    {
+        "text": "开启邮件",
+        "entities": [],
+        "intent": "LAUNCH"
+    },
+    {
+        "text": "凉拌海蜇怎么做好吃？",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "青春期撞上更年期二",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 0,
+                "end_idx": 8
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "再来背一首毛泽东的诗词。",
+        "entities": [
+            {
+                "type": "author",
+                "start_idx": 5,
+                "end_idx": 7
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "帮我来一首兰陵王。",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 5,
+                "end_idx": 7
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "北京下雨了吗你个蠢蛋",
+        "entities": [
+            {
+                "type": "location_city",
+                "start_idx": 0,
+                "end_idx": 1
+            },
+            {
+                "type": "subfocus",
+                "start_idx": 3,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "看新闻。",
+        "entities": [],
+        "intent": "PLAY"
+    },
+    {
+        "text": "整人专家的电影",
+        "entities": [
+            {
+                "type": "category",
+                "start_idx": 5,
+                "end_idx": 6
+            },
+            {
+                "type": "name",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "搜幕府风云",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 1,
+                "end_idx": 4
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "打开科大讯飞网站",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 2,
+                "end_idx": 5
+            }
+        ],
+        "intent": "OPEN"
+    },
+    {
+        "text": "牛肉怎么煮才好吃？你？",
+        "entities": [
+            {
+                "type": "ingredient",
+                "start_idx": 0,
+                "end_idx": 1
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "富瑞特装股票",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "阿妈，来一首白居易的诗。",
+        "entities": [
+            {
+                "type": "author",
+                "start_idx": 6,
+                "end_idx": 8
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "苏泊尔股价大跌",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 0,
+                "end_idx": 2
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "今晚红烧肉的做法。",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 2,
+                "end_idx": 4
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "爱情片",
+        "entities": [
+            {
+                "type": "category",
+                "start_idx": 2,
+                "end_idx": 2
+            },
+            {
+                "type": "tag",
+                "start_idx": 0,
+                "end_idx": 1
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "杭州到上海",
+        "entities": [
+            {
+                "type": "endLoc_city",
+                "start_idx": 3,
+                "end_idx": 4
+            },
+            {
+                "type": "startLoc_city",
+                "start_idx": 0,
+                "end_idx": 1
+            }
+        ],
+        "intent": "ROUTE"
+    },
+    {
+        "text": "科大讯飞的股价如何",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "帮我查下下周演新闻联播",
+        "entities": [
+            {
+                "type": "datetime_date",
+                "start_idx": 4,
+                "end_idx": 5
+            },
+            {
+                "type": "name",
+                "start_idx": 7,
+                "end_idx": 10
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "泰州新闻。",
+        "entities": [
+            {
+                "type": "location_city",
+                "start_idx": 0,
+                "end_idx": 1
+            }
+        ],
+        "intent": "PLAY"
+    },
+    {
+        "text": "酸菜鱼怎样做",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 0,
+                "end_idx": 2
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "湖南卫视有什么节目",
+        "entities": [
+            {
+                "type": "tvchannel",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "古墓丽影",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "把刘荣涛的电话发给王华成",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 1,
+                "end_idx": 3
+            },
+            {
+                "type": "receiver",
+                "start_idx": 9,
+                "end_idx": 11
+            }
+        ],
+        "intent": "SENDCONTACTS"
+    },
+    {
+        "text": "我要当八路军",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 0,
+                "end_idx": 5
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "翻译睡觉了",
+        "entities": [
+            {
+                "type": "content",
+                "start_idx": 2,
+                "end_idx": 4
+            }
+        ],
+        "intent": "TRANSLATION"
+    },
+    {
+        "text": "发邮件给灿灿说明早我们一起跑步",
+        "entities": [
+            {
+                "type": "content",
+                "start_idx": 7,
+                "end_idx": 14
+            },
+            {
+                "type": "name",
+                "start_idx": 4,
+                "end_idx": 5
+            }
+        ],
+        "intent": "SEND"
+    },
+    {
+        "text": "合肥百货大楼在哪里",
+        "entities": [
+            {
+                "type": "location_city",
+                "start_idx": 0,
+                "end_idx": 1
+            },
+            {
+                "type": "location_poi",
+                "start_idx": 2,
+                "end_idx": 5
+            }
+        ],
+        "intent": "POSITION"
+    },
+    {
+        "text": "馒头怎么做吗？",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 0,
+                "end_idx": 1
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "贵阳到哈尔滨飞机",
+        "entities": [
+            {
+                "type": "endLoc_city",
+                "start_idx": 3,
+                "end_idx": 5
+            },
+            {
+                "type": "startLoc_city",
+                "start_idx": 0,
+                "end_idx": 1
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "从新加坡花园怎么去宁溪路",
+        "entities": [
+            {
+                "type": "endLoc_poi",
+                "start_idx": 9,
+                "end_idx": 11
+            },
+            {
+                "type": "startLoc_poi",
+                "start_idx": 1,
+                "end_idx": 5
+            }
+        ],
+        "intent": "ROUTE"
+    },
+    {
+        "text": "来首苏轼的词。",
+        "entities": [
+            {
+                "type": "author",
+                "start_idx": 2,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "查一下杭州到宁波的火车票",
+        "entities": [
+            {
+                "type": "endLoc_city",
+                "start_idx": 6,
+                "end_idx": 7
+            },
+            {
+                "type": "startLoc_city",
+                "start_idx": 3,
+                "end_idx": 4
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "帮我找一下凉拌海蜇的做法。",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 5,
+                "end_idx": 8
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "帮我看一下到科大讯飞最快的是哪条路线",
+        "entities": [
+            {
+                "type": "endLoc_poi",
+                "start_idx": 6,
+                "end_idx": 9
+            }
+        ],
+        "intent": "ROUTE"
+    },
+    {
+        "text": "给刘三发短信说我今天没有空",
+        "entities": [
+            {
+                "type": "content",
+                "start_idx": 7,
+                "end_idx": 12
+            },
+            {
+                "type": "name",
+                "start_idx": 1,
+                "end_idx": 2
+            }
+        ],
+        "intent": "SEND"
+    },
+    {
+        "text": "我想看高尔夫网球频道",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 3,
+                "end_idx": 9
+            }
+        ],
+        "intent": "PLAY"
+    },
+    {
+        "text": "南光集团怎么走",
+        "entities": [
+            {
+                "type": "endLoc_poi",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "ROUTE"
+    },
+    {
+        "text": "花开半夏",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "昨天的北京新闻",
+        "entities": [
+            {
+                "type": "datetime_date",
+                "start_idx": 0,
+                "end_idx": 1
+            },
+            {
+                "type": "location_city",
+                "start_idx": 3,
+                "end_idx": 4
+            }
+        ],
+        "intent": "PLAY"
+    },
+    {
+        "text": "鸭蛋怎么腌？",
+        "entities": [
+            {
+                "type": "ingredient",
+                "start_idx": 0,
+                "end_idx": 1
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "上百度网站",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 1,
+                "end_idx": 2
+            }
+        ],
+        "intent": "OPEN"
+    },
+    {
+        "text": "唱一首简单爱",
+        "entities": [
+            {
+                "type": "song",
+                "start_idx": 3,
+                "end_idx": 5
+            }
+        ],
+        "intent": "PLAY"
+    },
+    {
+        "text": "鱼香肉丝哦",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "鱼香肉丝，怎么做？不？",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "今晚看什么电影？",
+        "entities": [
+            {
+                "type": "category",
+                "start_idx": 5,
+                "end_idx": 6
+            },
+            {
+                "type": "datetime_time",
+                "start_idx": 0,
+                "end_idx": 1
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "播新闻，湖南新闻。",
+        "entities": [
+            {
+                "type": "location_province",
+                "start_idx": 4,
+                "end_idx": 5
+            }
+        ],
+        "intent": "PLAY"
+    },
+    {
+        "text": "山寨鱼怎么做？",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 0,
+                "end_idx": 2
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "帮我查一下广州到长沙的航班",
+        "entities": [
+            {
+                "type": "endLoc_city",
+                "start_idx": 8,
+                "end_idx": 9
+            },
+            {
+                "type": "startLoc_city",
+                "start_idx": 5,
+                "end_idx": 6
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "看电影啊",
+        "entities": [
+            {
+                "type": "category",
+                "start_idx": 1,
+                "end_idx": 2
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "江苏影视",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "PLAY"
+    },
+    {
+        "text": "小军儿炖土豆该怎么做？",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 3,
+                "end_idx": 5
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "包皮过长，怎么办？哦。",
+        "entities": [
+            {
+                "type": "keyword",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "当婆婆遇上妈",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 0,
+                "end_idx": 5
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "我要听新闻，给我数。",
+        "entities": [],
+        "intent": "PLAY"
+    },
+    {
+        "text": "有你才幸福",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 0,
+                "end_idx": 4
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "打电话给艾背",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 4,
+                "end_idx": 5
+            }
+        ],
+        "intent": "DIAL"
+    },
+    {
+        "text": "酱油汁的做法。",
+        "entities": [
+            {
+                "type": "ingredient",
+                "start_idx": 0,
+                "end_idx": 2
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "我想听水墨丹青这首歌",
+        "entities": [
+            {
+                "type": "song",
+                "start_idx": 3,
+                "end_idx": 6
+            }
+        ],
+        "intent": "PLAY"
+    },
+    {
+        "text": "听新闻，姨。",
+        "entities": [],
+        "intent": "PLAY"
+    },
+    {
+        "text": "给爸爸打电话",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 1,
+                "end_idx": 2
+            }
+        ],
+        "intent": "DIAL"
+    },
+    {
+        "text": "电影中国合伙人",
+        "entities": [
+            {
+                "type": "category",
+                "start_idx": 0,
+                "end_idx": 1
+            },
+            {
+                "type": "name",
+                "start_idx": 2,
+                "end_idx": 6
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "少儿节目中央少儿节目",
+        "entities": [
+            {
+                "type": "category",
+                "start_idx": 5,
+                "end_idx": 6
+            },
+            {
+                "type": "category",
+                "start_idx": 5,
+                "end_idx": 6
+            },
+            {
+                "type": "tvchannel",
+                "start_idx": 4,
+                "end_idx": 9
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "酒鬼花生怎么做？",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "新闻解码",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "PLAY"
+    },
+    {
+        "text": "打电话给hello word",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 4,
+                "end_idx": 13
+            }
+        ],
+        "intent": "DIAL"
+    },
+    {
+        "text": "给杨李鹏发短信",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 1,
+                "end_idx": 3
+            }
+        ],
+        "intent": "SEND"
+    },
+    {
+        "text": "我要看军事武侠小说",
+        "entities": [
+            {
+                "type": "category",
+                "start_idx": 3,
+                "end_idx": 6
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "肉沫茄子，怎么做？",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "搜一下小说。",
+        "entities": [],
+        "intent": "QUERY"
+    },
+    {
+        "text": "手抓饼的做法。",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 0,
+                "end_idx": 2
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "现在浙江卫视在放什么节目",
+        "entities": [
+            {
+                "type": "datetime_time",
+                "start_idx": 0,
+                "end_idx": 1
+            },
+            {
+                "type": "tvchannel",
+                "start_idx": 2,
+                "end_idx": 5
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "科大讯飞股票价格",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "做酸菜鱼。",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 1,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "查一查上影电影院即将上映的影片",
+        "entities": [],
+        "intent": "QUERY"
+    },
+    {
+        "text": "打开江苏移动网上营业厅网页",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 2,
+                "end_idx": 6
+            }
+        ],
+        "intent": "OPEN"
+    },
+    {
+        "text": "潜山到福州的火车",
+        "entities": [
+            {
+                "type": "endLoc_city",
+                "start_idx": 3,
+                "end_idx": 4
+            },
+            {
+                "type": "startLoc_area",
+                "start_idx": 0,
+                "end_idx": 1
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "2013年陈可辛导演的好看的电影",
+        "entities": [
+            {
+                "type": "artist",
+                "start_idx": 5,
+                "end_idx": 7
+            },
+            {
+                "type": "artistRole",
+                "start_idx": 8,
+                "end_idx": 9
+            },
+            {
+                "type": "category",
+                "start_idx": 14,
+                "end_idx": 15
+            },
+            {
+                "type": "datetime_date",
+                "start_idx": 0,
+                "end_idx": 4
+            },
+            {
+                "type": "scoreDescr",
+                "start_idx": 11,
+                "end_idx": 12
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "湖北荆州到黄石的火车",
+        "entities": [
+            {
+                "type": "endLoc_city",
+                "start_idx": 5,
+                "end_idx": 6
+            },
+            {
+                "type": "startLoc_city",
+                "start_idx": 2,
+                "end_idx": 3
+            },
+            {
+                "type": "startLoc_province",
+                "start_idx": 0,
+                "end_idx": 1
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "发短信给姐姐说晚上一起吃面条",
+        "entities": [
+            {
+                "type": "content",
+                "start_idx": 7,
+                "end_idx": 13
+            },
+            {
+                "type": "name",
+                "start_idx": 4,
+                "end_idx": 5
+            }
+        ],
+        "intent": "SEND"
+    },
+    {
+        "text": "甘肃台",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 0,
+                "end_idx": 2
+            }
+        ],
+        "intent": "PLAY"
+    },
+    {
+        "text": "来一首钟汉良的视觉动物",
+        "entities": [
+            {
+                "type": "artist",
+                "start_idx": 3,
+                "end_idx": 5
+            },
+            {
+                "type": "song",
+                "start_idx": 7,
+                "end_idx": 10
+            }
+        ],
+        "intent": "PLAY"
+    },
+    {
+        "text": "我要答复邮件",
+        "entities": [],
+        "intent": "REPLY"
+    },
+    {
+        "text": "用电压力锅怎么蒸米粉肉。",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 7,
+                "end_idx": 10
+            },
+            {
+                "type": "utensil",
+                "start_idx": 2,
+                "end_idx": 4
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "王菲传奇。",
+        "entities": [
+            {
+                "type": "artist",
+                "start_idx": 0,
+                "end_idx": 1
+            },
+            {
+                "type": "song",
+                "start_idx": 2,
+                "end_idx": 3
+            }
+        ],
+        "intent": "PLAY"
+    },
+    {
+        "text": "去烟台的火车",
+        "entities": [
+            {
+                "type": "endLoc_city",
+                "start_idx": 1,
+                "end_idx": 2
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "呼叫广岁",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 2,
+                "end_idx": 3
+            }
+        ],
+        "intent": "DIAL"
+    },
+    {
+        "text": "炒豆腐。",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 0,
+                "end_idx": 2
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "搜索15选5的号码信息",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 2,
+                "end_idx": 5
+            }
+        ],
+        "intent": "NUMBER_QUERY"
+    },
+    {
+        "text": "广东省英德在哪里",
+        "entities": [
+            {
+                "type": "location_area",
+                "start_idx": 3,
+                "end_idx": 4
+            },
+            {
+                "type": "location_province",
+                "start_idx": 0,
+                "end_idx": 2
+            }
+        ],
+        "intent": "POSITION"
+    },
+    {
+        "text": "查一下沿途的科大讯飞",
+        "entities": [
+            {
+                "type": "location_poi",
+                "start_idx": 6,
+                "end_idx": 9
+            }
+        ],
+        "intent": "POSITION"
+    },
+    {
+        "text": "我要上网打开百度",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 6,
+                "end_idx": 7
+            }
+        ],
+        "intent": "OPEN"
+    },
+    {
+        "text": "在菏泽怎么坐去北京的车。",
+        "entities": [
+            {
+                "type": "Dest",
+                "start_idx": 7,
+                "end_idx": 8
+            },
+            {
+                "type": "Src",
+                "start_idx": 1,
+                "end_idx": 2
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "老朗诵首古诗。",
+        "entities": [],
+        "intent": "DEFAULT"
+    },
+    {
+        "text": "我要听情动这首歌。",
+        "entities": [
+            {
+                "type": "song",
+                "start_idx": 3,
+                "end_idx": 4
+            }
+        ],
+        "intent": "PLAY"
+    },
+    {
+        "text": "不辣，猜谜语。",
+        "entities": [
+            {
+                "type": "category",
+                "start_idx": 4,
+                "end_idx": 5
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "那给我背静夜思。",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 4,
+                "end_idx": 6
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "特莫文蔚的阴天。",
+        "entities": [
+            {
+                "type": "artist",
+                "start_idx": 1,
+                "end_idx": 3
+            },
+            {
+                "type": "song",
+                "start_idx": 5,
+                "end_idx": 6
+            }
+        ],
+        "intent": "PLAY"
+    },
+    {
+        "text": "发信息给许路雨",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 4,
+                "end_idx": 6
+            }
+        ],
+        "intent": "SEND"
+    },
+    {
+        "text": "老故事",
+        "entities": [
+            {
+                "type": "category",
+                "start_idx": 0,
+                "end_idx": 2
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "财经频道今天有什么节目",
+        "entities": [
+            {
+                "type": "datetime_date",
+                "start_idx": 4,
+                "end_idx": 5
+            },
+            {
+                "type": "tvchannel",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "请翻译苹果",
+        "entities": [
+            {
+                "type": "content",
+                "start_idx": 3,
+                "end_idx": 4
+            }
+        ],
+        "intent": "TRANSLATION"
+    },
+    {
+        "text": "怎么做洋葱炒蛋？",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 3,
+                "end_idx": 6
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "如何做芝麻糊。",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 3,
+                "end_idx": 5
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "网上最火的小说有哪些",
+        "entities": [
+            {
+                "type": "popularity",
+                "start_idx": 2,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "红烧鱼块。",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "麻辣豆腐怎么做啊？",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "我要买电脑的英语怎么说",
+        "entities": [
+            {
+                "type": "content",
+                "start_idx": 0,
+                "end_idx": 4
+            },
+            {
+                "type": "target",
+                "start_idx": 6,
+                "end_idx": 7
+            }
+        ],
+        "intent": "TRANSLATION"
+    },
+    {
+        "text": "土豆的做法",
+        "entities": [
+            {
+                "type": "ingredient",
+                "start_idx": 0,
+                "end_idx": 1
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "得了肝癌怎么办？",
+        "entities": [
+            {
+                "type": "keyword",
+                "start_idx": 2,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "电影私人定制",
+        "entities": [
+            {
+                "type": "category",
+                "start_idx": 0,
+                "end_idx": 1
+            },
+            {
+                "type": "name",
+                "start_idx": 2,
+                "end_idx": 5
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "橙子的英文怎么说",
+        "entities": [
+            {
+                "type": "content",
+                "start_idx": 0,
+                "end_idx": 1
+            },
+            {
+                "type": "target",
+                "start_idx": 3,
+                "end_idx": 4
+            }
+        ],
+        "intent": "TRANSLATION"
+    },
+    {
+        "text": "打开极品飞车",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 2,
+                "end_idx": 5
+            }
+        ],
+        "intent": "LAUNCH"
+    },
+    {
+        "text": "狗肉怎么做？",
+        "entities": [
+            {
+                "type": "ingredient",
+                "start_idx": 0,
+                "end_idx": 1
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "那金花和她的女婿",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 0,
+                "end_idx": 7
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "肉炒饭怎么做？",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 0,
+                "end_idx": 2
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "美国最近有什么新闻",
+        "entities": [
+            {
+                "type": "datetime_date",
+                "start_idx": 2,
+                "end_idx": 3
+            },
+            {
+                "type": "location_country",
+                "start_idx": 0,
+                "end_idx": 1
+            }
+        ],
+        "intent": "PLAY"
+    },
+    {
+        "text": "给我来首好听的音乐",
+        "entities": [
+            {
+                "type": "category",
+                "start_idx": 4,
+                "end_idx": 5
+            }
+        ],
+        "intent": "PLAY"
+    },
+    {
+        "text": "给我讲个笑话吧，鱼香肉丝怎么做？",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 8,
+                "end_idx": 11
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "帮我查一下赣州到杭州的火车票",
+        "entities": [
+            {
+                "type": "endLoc_city",
+                "start_idx": 8,
+                "end_idx": 9
+            },
+            {
+                "type": "startLoc_city",
+                "start_idx": 5,
+                "end_idx": 6
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "打电话给黄组织",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 4,
+                "end_idx": 6
+            }
+        ],
+        "intent": "DIAL"
+    },
+    {
+        "text": "讯飞语音我想知道山东省东营市今天的新闻。",
+        "entities": [
+            {
+                "type": "datetime_date",
+                "start_idx": 14,
+                "end_idx": 15
+            },
+            {
+                "type": "location_city",
+                "start_idx": 11,
+                "end_idx": 13
+            },
+            {
+                "type": "location_province",
+                "start_idx": 8,
+                "end_idx": 10
+            }
+        ],
+        "intent": "PLAY"
+    },
+    {
+        "text": "帮我找到微信",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 4,
+                "end_idx": 5
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "从济源市到河南省电信分公司怎么走",
+        "entities": [
+            {
+                "type": "endLoc_poi",
+                "start_idx": 8,
+                "end_idx": 12
+            },
+            {
+                "type": "endLoc_province",
+                "start_idx": 5,
+                "end_idx": 7
+            },
+            {
+                "type": "startLoc_city",
+                "start_idx": 1,
+                "end_idx": 3
+            }
+        ],
+        "intent": "ROUTE"
+    },
+    {
+        "text": "海虾的做法。",
+        "entities": [
+            {
+                "type": "ingredient",
+                "start_idx": 0,
+                "end_idx": 1
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "不，做个红烧肉怎么做？",
+        "entities": [
+            {
+                "type": "dishName",
+                "start_idx": 4,
+                "end_idx": 6
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "求米线怎么做？",
+        "entities": [
+            {
+                "type": "ingredient",
+                "start_idx": 1,
+                "end_idx": 2
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "湖南卫视电视节目表",
+        "entities": [
+            {
+                "type": "tvchannel",
+                "start_idx": 0,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "北京生活频道节目单",
+        "entities": [
+            {
+                "type": "tvchannel",
+                "start_idx": 0,
+                "end_idx": 5
+            }
+        ],
+        "intent": "QUERY"
+    },
+    {
+        "text": "给石荣福发短信",
+        "entities": [
+            {
+                "type": "name",
+                "start_idx": 1,
+                "end_idx": 3
+            }
+        ],
+        "intent": "SEND"
+    },
+    {
+        "text": "查询广州到贵港的火车",
+        "entities": [
+            {
+                "type": "endLoc_city",
+                "start_idx": 5,
+                "end_idx": 6
+            },
+            {
+                "type": "startLoc_city",
+                "start_idx": 2,
+                "end_idx": 3
+            }
+        ],
+        "intent": "QUERY"
+    }
+]

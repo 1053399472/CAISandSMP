@@ -1,0 +1,11767 @@
+[
+  {
+    "text": "来张信哲的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 1,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听其实。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我真爱听演唱。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 5
+      }
+    ],
+    "intent": "Chat"
+  },
+  {
+    "text": "今天冷吗",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "GetWeather"
+  },
+  {
+    "text": "放许嵩的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 1,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "dj白雪",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听米小圈上学记四年级",
+    "entities": [
+      {
+        "type": "story_name",
+        "start_idx": 3,
+        "end_idx": 8
+      },
+      {
+        "type": "story_tag",
+        "start_idx": 9,
+        "end_idx": 11
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "今天成都天气怎么样",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 0,
+        "end_idx": 1
+      },
+      {
+        "type": "location",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "GetWeather"
+  },
+  {
+    "text": "我想听听心",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱一首兄弟抱一下。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听落空",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听火火的爱。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放节奏强的歌",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来首纤夫的爱",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放学别走放学别走",
+    "entities": [],
+    "intent": "Chat"
+  },
+  {
+    "text": "我要听广东雨神的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "央广新闻",
+    "entities": [
+      {
+        "type": "news_tag",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "GetNews"
+  },
+  {
+    "text": "放首学猫叫",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放一首说爱你",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来一首飞天",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱歌吴亦凡",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听胡66的浪人琵琶",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      },
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "@#胡歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱一首人走茶凉。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱一首彩虹的约定。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播金曲",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 1,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放告白气球歌曲",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱的响亮",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "搜一下新年好的歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听流行歌曲。",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "给我唱一首酒干倘卖无。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听新歌",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放齐秦的外面的世界",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 3
+      },
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱个小二郎。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你好我要",
+    "entities": [],
+    "intent": "Chat"
+  },
+  {
+    "text": "播放dj舞曲",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 2,
+        "end_idx": 3
+      },
+      {
+        "type": "song_type",
+        "start_idx": 4,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "搜索歌曲，梦的翅膀受了伤。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 11
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "贺一航的原来占据你内心的人不是我",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 2
+      },
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 15
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放首浪子回头",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放一首张杰的歌。",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放一首爱太痛",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱孙燕姿的天黑黑",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 1,
+        "end_idx": 3
+      },
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听天佑的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听李白。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你会唱中文儿歌吗",
+    "entities": [
+      {
+        "type": "song_language",
+        "start_idx": 3,
+        "end_idx": 4
+      },
+      {
+        "type": "song_type",
+        "start_idx": 5,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "灰姑娘歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放狐狸爱上熊。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放中文流行歌曲",
+    "entities": [
+      {
+        "type": "song_language",
+        "start_idx": 2,
+        "end_idx": 3
+      },
+      {
+        "type": "song_type",
+        "start_idx": 4,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱红歌",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 1,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听音乐，丑八怪。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放伤不起",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听为什么",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放一首世上只有妈妈好",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "催眠曲",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "说散就散这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "听哥一人六神无主。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听邓紫棋唱的歌。",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你要不要唱pop给我听？",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听错爱这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放首陈奕迅的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放如果有来生",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "00后歌曲。",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听周杰伦的等你下课",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      },
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "请给我看，葫芦娃这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听再见。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放老婆老婆我爱你！",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听，转眼不见。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "现在几度",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "GetWeather"
+  },
+  {
+    "text": "播放亲爱的小孩。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "给我唱一首小苹果的歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "歌曲小鸡小鸡。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听你唱薛之谦的演员",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 5,
+        "end_idx": 7
+      },
+      {
+        "type": "song_name",
+        "start_idx": 9,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "奥特曼之歌",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "一无所有",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听我们的明天这首歌曲。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听彩虹的微笑。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听，稳稳的幸福。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放相信自己歌曲",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放一首一路向北",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听儿童故事",
+    "entities": [
+      {
+        "type": "story_tag",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "放一首好听的的民歌歌",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 4
+      },
+      {
+        "type": "song_type",
+        "start_idx": 7,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放一首捉泥鳅",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱英语歌。",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 1,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你给我唱一首逆战。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来首英文的吧",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱一首，让我们荡起双桨。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放为爱痴狂",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听洋娃娃和小熊跳舞。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来一首小兔子乖乖",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "军事新闻",
+    "entities": [
+      {
+        "type": "news_tag",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "GetNews"
+  },
+  {
+    "text": "唱首歌曲雨花石。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放歌曲一生所爱。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放姚贝娜的画心",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      },
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "歌曲你还要我怎样？",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "陈乐基",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你唱一首忘情水。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听一首挥动翅膀的女孩的歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 11
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "帮我明天八点的闹钟",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "Remind"
+  },
+  {
+    "text": "音乐求佛。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你能给我唱首咚吧啦！",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听纯音乐",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来首劲爆的歌曲",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听吴青峰的起风了",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      },
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "汪苏泷的一笑倾城",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 2
+      },
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听一剪梅这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "蓝天，来一首小苹果。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听音阙诗听的红昭愿",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 6
+      },
+      {
+        "type": "song_name",
+        "start_idx": 8,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "帮我播放日语歌",
+    "entities": [
+      {
+        "type": "song_language",
+        "start_idx": 4,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "闯天涯歌曲。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来一首张学友的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想我想听左手右手。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听睡前胎教故事",
+    "entities": [
+      {
+        "type": "story_tag",
+        "start_idx": 3,
+        "end_idx": 4
+      },
+      {
+        "type": "story_tag",
+        "start_idx": 5,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "快乐的跳吧歌曲。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "歌曲没有以后。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听新年好",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听雨花石。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "一首小兔子乖乖。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "后天天气预报",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "GetWeather"
+  },
+  {
+    "text": "播放沙漠",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "现在多少时间了",
+    "entities": [],
+    "intent": "GetDate"
+  },
+  {
+    "text": "请放海草舞",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听热歌",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "听郭德纲相声",
+    "entities": [
+      {
+        "type": "actor_name",
+        "start_idx": 1,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayFMCrosstalk"
+  },
+  {
+    "text": "八月桂花遍地开",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来一首歌在飞。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱首张韶涵的歌吧",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "歌曲葫芦娃",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听海潮哥的C哩C哩",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      },
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听艾福杰尼;BooM黄旭;田羽生的说散就散",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 6
+      },
+      {
+        "type": "singer_name",
+        "start_idx": 8,
+        "end_idx": 13
+      },
+      {
+        "type": "singer_name",
+        "start_idx": 15,
+        "end_idx": 17
+      },
+      {
+        "type": "song_name",
+        "start_idx": 19,
+        "end_idx": 22
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听陈慧娴的千千阙歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      },
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听森林游乐场这首歌",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放闽南歌",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 1,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "有声书",
+    "entities": [
+      {
+        "type": "fiction_tag",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "PlayFMFiction"
+  },
+  {
+    "text": "小欧，我想听青春修炼手册这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 11
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "歌曲共同渡过",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "讲西游记",
+    "entities": [
+      {
+        "type": "fiction_name",
+        "start_idx": 1,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayFMFiction"
+  },
+  {
+    "text": "嗯帮我讲一个灰姑娘的故事",
+    "entities": [
+      {
+        "type": "story_name",
+        "start_idx": 6,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "我要听任贤齐的水晶",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      },
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱一首名叫父亲的歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你给我唱情人桥。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "给我来一首小星星。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我的天空歌曲",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "大鱼。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "逆战这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱我好想你呗",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 1,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "歌曲沙漠骆驼",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听下一秒。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "找一个美女与野兽的故事",
+    "entities": [
+      {
+        "type": "story_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "我想听美德说这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "映山红",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放张杰的歌。",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放久石让的音乐天空之城",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      },
+      {
+        "type": "song_name",
+        "start_idx": 8,
+        "end_idx": 11
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放一首明天会更好",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放默",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放年少有为",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听无字碑",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "赵鹏的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听刚好遇见你这首歌曲。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放一首幸福了然后呢",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放音乐嫁衣",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放非酋",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放无赖",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "搜索一下在王牌对王牌里面王源唱的一首英语歌曲。",
+    "entities": [
+      {
+        "type": "album_name",
+        "start_idx": 5,
+        "end_idx": 9
+      },
+      {
+        "type": "singer_name",
+        "start_idx": 12,
+        "end_idx": 13
+      },
+      {
+        "type": "song_type",
+        "start_idx": 18,
+        "end_idx": 21
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放今天的天气预报",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "GetWeather"
+  },
+  {
+    "text": "播放音乐两只老虎",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "声音唱",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "给我唱个小苹果。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听吹牛大王历险记",
+    "entities": [
+      {
+        "type": "movie_name",
+        "start_idx": 3,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听学猫叫",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "打开后,我想听最炫小苹果这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 11
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱首周杰伦的歌吧",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放抖音的歌",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 1,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "请播放成都",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听小燕子",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "tfboys守护家。",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 5
+      },
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你给我唱一首许嵩的歌吧",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 6,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你唱个十五的月亮。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你好今天天气怎么样",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "GetWeather"
+  },
+  {
+    "text": "高棉语歌曲",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听好想你。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听丑八怪这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱周杰伦的晴天给我听吧",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 1,
+        "end_idx": 3
+      },
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放一首好听的英文儿歌",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 4,
+        "end_idx": 5
+      },
+      {
+        "type": "song_language",
+        "start_idx": 7,
+        "end_idx": 8
+      },
+      {
+        "type": "song_type",
+        "start_idx": 9,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你给我唱一个，走四方。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放粤语歌曲",
+    "entities": [
+      {
+        "type": "song_language",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "七月的风八月的雨",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播小",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 1,
+        "end_idx": 1
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听小竹笋歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "歌曲大王叫我来巡山。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你是我的眼歌曲。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "要听左手右手。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听稻香",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你来唱刘若英的后来",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      },
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "明天六点四十叫我起床",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 0,
+        "end_idx": 5
+      },
+      {
+        "type": "event",
+        "start_idx": 8,
+        "end_idx": 9
+      }
+    ],
+    "intent": "Remind"
+  },
+  {
+    "text": "我想听爱你一万年。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听销魂歌曲。",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放丑八怪嘿嘿",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听一万个对不起！",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "让我听个美丽的歌。",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 4,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "李白的",
+    "entities": [
+      {
+        "type": "author_name",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "PlayPoem"
+  },
+  {
+    "text": "我想听小鸭子。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱一段张学友的情书",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      },
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听首音乐小苹果。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听笑红尘这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱一首闯码头。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听你唱树读",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听从开始到现在这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我放一首刘德华的今天",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 4,
+        "end_idx": 6
+      },
+      {
+        "type": "song_name",
+        "start_idx": 8,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱一首一剪梅",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来首好听的歌曲，小燕子。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 8,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你唱世上只有妈妈好给我听听。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "天空之城的歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱海阔天空啊",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 1,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "汪峰的歌！",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "小苹果儿",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "打靶歌",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放海草舞",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 1,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "只要听听陈旭。",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 4,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听薛之谦的其实",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      },
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听动心。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听情哥哥。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "帮我搜索歌曲水调歌头。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放华晨宇的异类",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      },
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听冰雪奇缘主题曲",
+    "entities": [
+      {
+        "type": "album_name",
+        "start_idx": 3,
+        "end_idx": 6
+      },
+      {
+        "type": "song_type",
+        "start_idx": 7,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱打靶归来",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 1,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来个吹眠曲",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听小毛驴",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听文筱芮的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放刘德华",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听雪山姑娘。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱江南吧！",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 1,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "钢琴版萨克斯",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 0,
+        "end_idx": 1
+      },
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "要听我要听拉萨",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放海阔天空",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱一首#我好想你",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱张韶涵隐形的翅膀",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 1,
+        "end_idx": 3
+      },
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听猫和老鼠",
+    "entities": [
+      {
+        "type": "story_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "会唱信仰吗？",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "老鹰之歌",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "中国美",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听数鸭子。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "中文儿歌",
+    "entities": [
+      {
+        "type": "song_language",
+        "start_idx": 0,
+        "end_idx": 1
+      },
+      {
+        "type": "song_type",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "明天早上七点十分叫我起床",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 0,
+        "end_idx": 7
+      },
+      {
+        "type": "event",
+        "start_idx": 10,
+        "end_idx": 11
+      }
+    ],
+    "intent": "Remind"
+  },
+  {
+    "text": "我要听催眠曲。",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱一首五月天的歌吧",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来一首温柔",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放山海",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听比较嗨的歌。",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 5,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听胎教音乐",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听龙卷风。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放嘴巴嘟嘟",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 1,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "帮我找一下tfboys的所有歌。",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 5,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放卡酷幼儿园的白雪皇后",
+    "entities": [
+      {
+        "type": "story_tag",
+        "start_idx": 2,
+        "end_idx": 6
+      },
+      {
+        "type": "story_name",
+        "start_idx": 8,
+        "end_idx": 11
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "我想听修炼爱情的歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放李玉刚的雨花石",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      },
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "说话快说，听小苹果。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听我想听忘情水这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听杜德伟的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听王德发;跟风超人的我要买",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      },
+      {
+        "type": "singer_name",
+        "start_idx": 7,
+        "end_idx": 10
+      },
+      {
+        "type": "song_name",
+        "start_idx": 12,
+        "end_idx": 14
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听小兔子乖乖。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放音乐yee",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "听虹之间这首。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 1,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "easy",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "Chat"
+  },
+  {
+    "text": "来一首你走的时候",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放吴青峰的起风了",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      },
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你放歌小苹果。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "没唱就唱一首小毛驴吧！",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你唱首歌给我听，肯定。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 8,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放学别走",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你会唱刘若英的歌吗？",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "要听粤语歌",
+    "entities": [
+      {
+        "type": "song_language",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听小草这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听鹿晗的致爱这首歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 4
+      },
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱一首忘情水，这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放自爱。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "那，唱，爱。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱一首林中鸟。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听，彩铃。",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 4,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我的祖国",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听唐诗",
+    "entities": [
+      {
+        "type": "poem_tag",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayPoem"
+  },
+  {
+    "text": "我想听，白雪公主的歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想唱，我想唱两只老虎。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放小马宝莉",
+    "entities": [
+      {
+        "type": "story_name",
+        "start_idx": 1,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "微微一笑很倾城什么时候开播",
+    "entities": [],
+    "intent": "AskKnowledge"
+  },
+  {
+    "text": "我想听薛之谦的丑八怪",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      },
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "脑筋急转弯",
+    "entities": [
+      {
+        "type": "joke_tag",
+        "start_idx": 0,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayFMJoke"
+  },
+  {
+    "text": "播放最美的期待",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听小毛驴这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "今天会下雪吗",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "GetWeather"
+  },
+  {
+    "text": "tfboys歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听刘若英的原来你也在这里",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      },
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 13
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放一首倍儿爽",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱abc",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 1,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听十万个什么",
+    "entities": [
+      {
+        "type": "story_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "换首八连杀",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱一首笑话。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "讲成语故事",
+    "entities": [
+      {
+        "type": "story_tag",
+        "start_idx": 1,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "看娱乐新闻",
+    "entities": [
+      {
+        "type": "news_tag",
+        "start_idx": 1,
+        "end_idx": 2
+      }
+    ],
+    "intent": "GetNews"
+  },
+  {
+    "text": "唱首常回家看看。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放卡路里。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "那吾克热",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "AskKnowledge"
+  },
+  {
+    "text": "唱小星星。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 1,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "给我放一些适合治愈时听的歌",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 7,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来个周杰伦的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你会转，你会唱宠爱。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "给我唱一首小白杨。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要唱小苹果。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "铠甲勇士",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放刷牙歌",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听韩文歌。",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你好你是谁",
+    "entities": [],
+    "intent": "Chat"
+  },
+  {
+    "text": "播放殷秀梅的祝酒歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      },
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱个一笑倾城",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听爱声叹气这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱首梁静茹的歌给我听",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "卢巧音风吹不走笑容",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 2
+      },
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放月亮湾",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "爱情让我心痛",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听卡路里",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听影视金曲。",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听中央人民广播电台少年广播合唱团的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 17
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放赛罗奥特曼",
+    "entities": [
+      {
+        "type": "story_name",
+        "start_idx": 2,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "播放青花瓷",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "健康歌",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放泰语歌",
+    "entities": [
+      {
+        "type": "song_language",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "一,唱一首,常回家看看。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听亡灵序曲这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放周华健的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放琵琶行",
+    "entities": [
+      {
+        "type": "poem_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayPoem"
+  },
+  {
+    "text": "我要听我要听三字经",
+    "entities": [
+      {
+        "type": "poem_name",
+        "start_idx": 6,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayPoem"
+  },
+  {
+    "text": "你好，来首忘情水。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听小水果",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听听老公。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放爱上幼儿园",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 1,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听私奔到月球。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "聆听",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放偏偏喜欢你",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你给我唱一首蒋大为的",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 6,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你会唱黄梅戏？",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听傻瓜的歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "满江红",
+    "entities": [
+      {
+        "type": "poem_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayPoem"
+  },
+  {
+    "text": "你会唱刘德华的歌吗？",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听真话。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "Chat"
+  },
+  {
+    "text": "我要听网络歌手的歌",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 4
+      },
+      {
+        "type": "song_type",
+        "start_idx": 5,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你会唱当你老了这首歌吗？",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你会唱京韵大鼓吗？",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放盗将行",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放你就不要想起我",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放丫头。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "会唱林俊杰的歌么",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "听薛之谦的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 1,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "求佛",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱薛之谦的演员给我听..",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 1,
+        "end_idx": 3
+      },
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放一首郭德纲的相声",
+    "entities": [
+      {
+        "type": "actor_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayFMCrosstalk"
+  },
+  {
+    "text": "我想听烟把儿乐队的纸短情长",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 7
+      },
+      {
+        "type": "song_name",
+        "start_idx": 9,
+        "end_idx": 12
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放二十岁的某一天。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我们都是追梦人",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来一首薛之谦的",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听CG,贺敬轩的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 4
+      },
+      {
+        "type": "singer_name",
+        "start_idx": 6,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "今天昆明天气怎么样",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 0,
+        "end_idx": 1
+      },
+      {
+        "type": "location",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "GetWeather"
+  },
+  {
+    "text": "我要听中国寓言故事",
+    "entities": [
+      {
+        "type": "story_name",
+        "start_idx": 3,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "歌曲喜欢你，邓紫棋。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      },
+      {
+        "type": "singer_name",
+        "start_idx": 6,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱，我爱你！",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "小跳蛙",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放情深深雨蒙蒙",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "给我播放一首爱爱。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "郭德纲于谦相声",
+    "entities": [
+      {
+        "type": "actor_name",
+        "start_idx": 0,
+        "end_idx": 2
+      },
+      {
+        "type": "actor_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayFMCrosstalk"
+  },
+  {
+    "text": "播放歌曲逆战。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "歌在飞",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听五环之歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "周华健的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听郭德纲相声",
+    "entities": [
+      {
+        "type": "actor_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayFMCrosstalk"
+  },
+  {
+    "text": "给我放歌曲捉泥鳅。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "十分钟后播放周杰伦的歌",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 0,
+        "end_idx": 2
+      },
+      {
+        "type": "event",
+        "start_idx": 4,
+        "end_idx": 10
+      }
+    ],
+    "intent": "Remind"
+  },
+  {
+    "text": "播放朋友的酒",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "起风了",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听，只是朋友。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放一首爱的故事上集",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放新年歌曲",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你播放一首大梦想家。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放个刘德华的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "帮我唱一首逆战。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱鹿晗的歌可以吗",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 1,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "明天有没有雨",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "GetWeather"
+  },
+  {
+    "text": "帮我搜十年之后歌曲。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听张信哲的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来一首痒",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "下定决心忘记你",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "给我唱大梦想家。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "希腊神话",
+    "entities": [
+      {
+        "type": "story_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "放一首毛不易的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听小苹果歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "讲一个米小圈上学记一二三年级",
+    "entities": [
+      {
+        "type": "story_name",
+        "start_idx": 3,
+        "end_idx": 8
+      },
+      {
+        "type": "story_tag",
+        "start_idx": 9,
+        "end_idx": 13
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "你会唱忘情水？这首歌吗？",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放个小苹果歌听听。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听徐秉龙的千禧",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      },
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱一首沙漠骆驼",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听我们不一样",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听伍佰的你是我的花朵",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 4
+      },
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 11
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "爱情这杯酒谁喝都得醉",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "认真的雪",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放音乐中国人民解放军进行曲",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 13
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放一只哈巴狗",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 1,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听野子。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "帮我搜索一下龙珠这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "给他听，我。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 4
+      }
+    ],
+    "intent": "Chat"
+  },
+  {
+    "text": "今天有什么科技新闻",
+    "entities": [
+      {
+        "type": "news_time",
+        "start_idx": 0,
+        "end_idx": 1
+      },
+      {
+        "type": "news_tag",
+        "start_idx": 5,
+        "end_idx": 6
+      }
+    ],
+    "intent": "GetNews"
+  },
+  {
+    "text": "这歌声",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "侧脸",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听一生有你这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来一首，不要说话。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听张靓颖的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "请播放黑猫警长",
+    "entities": [
+      {
+        "type": "movie_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你可以给我听一首江南style吗？",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 8,
+        "end_idx": 14
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听毛华锋的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "害我想唱每当我走过老师的窗前。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 13
+      }
+    ],
+    "intent": "Sing"
+  },
+  {
+    "text": "想听多想做你最爱的人。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "陈奕迅的歌！",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "帮我搜索老婆最大的歌曲。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "九月九的酒",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "同桌的你歌曲。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听当。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "给我放一首小苹果",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听十七岁的雨季。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "睡前歌曲",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "晚上会下雨吗",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "GetWeather"
+  },
+  {
+    "text": "听杨博。",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 1,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你会唱薛之谦吗",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放林忆莲的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放儿歌数鸭子",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 2,
+        "end_idx": 3
+      },
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我的将军啊",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "继续播放米多兔",
+    "entities": [
+      {
+        "type": "story_tag",
+        "start_idx": 4,
+        "end_idx": 6
+      }
+    ],
+    "intent": "ControlSystem"
+  },
+  {
+    "text": "唱音乐，妈妈，啊，嗯。",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 4,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "蜗牛与黄鹂鸟。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "拥抱你离去。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听桂莹莹的香水有毒",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      },
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "王俊凯的歌唱一首",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听,温柔的歌。",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 4,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听百家姓",
+    "entities": [
+      {
+        "type": "poem_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayPoem"
+  },
+  {
+    "text": "我想听贝多芬的月光奏鸣曲",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      },
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 11
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你会唱小酒窝吗？",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听护花使者",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我订晚上九点的闹钟啊",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "Remind"
+  },
+  {
+    "text": "金色童年",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听快乐环岛。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听我和你这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "想听周杰伦的晴天",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      },
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听侧脸",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听蛋堡的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听倍儿爽。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听##小虎队的#爱",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 5,
+        "end_idx": 7
+      },
+      {
+        "type": "song_name",
+        "start_idx": 10,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "音乐一个人。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "请播放流行歌曲",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱我好想你",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 1,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听韩红的千年之约。",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 4
+      },
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "听黄家驹的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 1,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来一首嘴巴嘟嘟",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱首夏洛特烦恼",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱大梦想家吧！",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 1,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "海贼王",
+    "entities": [
+      {
+        "type": "story_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "播放歌曲模特。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "小小苹果",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 1,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱黄梅戏",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 1,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "客厅灯打开",
+    "entities": [],
+    "intent": "ControlSystem"
+  },
+  {
+    "text": "唱分裂",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 1,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放海草",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听给我一杯忘情水这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "小欧，请帮我点一首蒙古人，这。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 9,
+        "end_idx": 11
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听爸爸去哪儿？",
+    "entities": [
+      {
+        "type": "album_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放歌曲医院人",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听适合在路上的歌",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 6,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "茉莉花",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听读书郎。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听演员这首歌",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "搜索，歌曲刚好遇见你。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "想听菠萝菠萝蜜这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你给我放小苹果听。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我叫小美",
+    "entities": [],
+    "intent": "Chat"
+  },
+  {
+    "text": "播放朴树的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "那你打个，孤独给我听。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 6
+      }
+    ],
+    "intent": "Chat"
+  },
+  {
+    "text": "汪峰的歌曲，",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听周笔畅的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "搜索歌曲刚好遇见你。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你会唱林俊杰的可惜没如果吗",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      },
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 11
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "换一首陈奕迅的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你会唱九妹吗？",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我在听平凡之路。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听背对背拥抱这首歌",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "河南新闻",
+    "entities": [
+      {
+        "type": "news_tag",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "GetNews"
+  },
+  {
+    "text": "给我唱一首巴巴爸爸。",
+    "entities": [
+      {
+        "type": "album_name",
+        "start_idx": 5,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听流行音乐。",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "谢谢放一首牡丹之歌吧！",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来一首数鸭子",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放一首tfboys的NBA。",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 8
+      },
+      {
+        "type": "song_name",
+        "start_idx": 10,
+        "end_idx": 12
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放圆周率这首歌曲。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "拿回了，我想听，忘情水。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 8,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来首《演员》",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "失眠时候听的。",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "空空如也",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放宝宝巴士睡前故事",
+    "entities": [
+      {
+        "type": "story_name",
+        "start_idx": 2,
+        "end_idx": 5
+      },
+      {
+        "type": "story_tag",
+        "start_idx": 6,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "我想听和你一样这首歌曲。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "周杰伦的甜甜的",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 2
+      },
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听卖报歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你帮我点首歌，我爱你这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听听，嘿嘿。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放李荣浩的年少有为",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      },
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听第八套广播体操",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放音乐老婆老婆我爱你！",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放Бамбинтон的Зая",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 10
+      },
+      {
+        "type": "song_name",
+        "start_idx": 12,
+        "end_idx": 14
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听夜空中最亮的星。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来首爱之光",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听萌萌的乖乖的这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放黑龙的三十八度六",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 1,
+        "end_idx": 2
+      },
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听任然的空空如也",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 4
+      },
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "邓紫棋光年之外",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 2
+      },
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "小oo，我想听宠爱。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播可以",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 1,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "请播放我们不一样",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听精忠报国这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放个小苹果的歌啊",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放睡前西游",
+    "entities": [
+      {
+        "type": "story_name",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "我要听绿光，这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "相信自己歌曲",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱摇篮曲我听",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 1,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你好请说个郭德纲相声",
+    "entities": [
+      {
+        "type": "crosstalk_name",
+        "start_idx": 5,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayFMCrosstalk"
+  },
+  {
+    "text": "我要听李白。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "帮我刷一首，7月上的歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "天空啊，生日快乐这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱一首路在何方？",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱一首深海少女",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听加油妈妈",
+    "entities": [
+      {
+        "type": "story_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "我想听梁梁志歌曲。",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "小欧，我想听黑猫警长的歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听执念。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放一首僵尸歌",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "明天七点半叫我起床",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 0,
+        "end_idx": 4
+      },
+      {
+        "type": "event",
+        "start_idx": 7,
+        "end_idx": 8
+      }
+    ],
+    "intent": "Remind"
+  },
+  {
+    "text": "来首张杰的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放林俊杰的你要的不是我",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      },
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 11
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "high歌QQ。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放三国演义",
+    "entities": [
+      {
+        "type": "fiction_name",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayFMFiction"
+  },
+  {
+    "text": "唱儿歌数鸭子",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 1,
+        "end_idx": 2
+      },
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听陈奕迅的富士山下",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      },
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱一首宠爱。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放个小苹果的歌",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "宁波天气",
+    "entities": [
+      {
+        "type": "location",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "GetWeather"
+  },
+  {
+    "text": "今天的温度是多少",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "GetWeather"
+  },
+  {
+    "text": "我想听以后的以后。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放些纯音乐",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "幸福拍手歌",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听一年级的小豌豆",
+    "entities": [
+      {
+        "type": "story_name",
+        "start_idx": 3,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "来一首三个和尚",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听你的嘴。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "啊，唱首歌，世上只有妈妈好。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 12
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来一首摇滚的歌。",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听歌曲隐形的翅膀。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "谢安琪的钟无艳",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 2
+      },
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "安全我要听复活。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "早上七点叫我起床",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 0,
+        "end_idx": 3
+      },
+      {
+        "type": "event",
+        "start_idx": 6,
+        "end_idx": 7
+      }
+    ],
+    "intent": "Remind"
+  },
+  {
+    "text": "讲灰姑娘的故事",
+    "entities": [
+      {
+        "type": "story_name",
+        "start_idx": 1,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "我要听网络歌曲",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "不用换一次唱,世上只有妈妈好。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 13
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "传说",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "帮我来个汪峰的歌曲",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 4,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱个五月天",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱首山路十八弯。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听为梦想时刻准备着这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来首伤感点的",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听阳光总在风雨后。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我爱听二十岁的某一天。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "二胡",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放一首新年快乐",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱个小白杨。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "给我发个催眠曲",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 4,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "点一首月光下的凤尾竹",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "看哪，唱小苹果这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放个小苹果啊",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听双节棍。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听你打不过我吧",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听小毛驴歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放凤凰传奇的歌曲",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听我的好妈妈这首歌曲。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "杀猪刀",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "杭州未来十四天的天气怎么样",
+    "entities": [
+      {
+        "type": "location",
+        "start_idx": 0,
+        "end_idx": 1
+      },
+      {
+        "type": "date",
+        "start_idx": 2,
+        "end_idx": 6
+      }
+    ],
+    "intent": "GetWeather"
+  },
+  {
+    "text": "怅然若失，播放孩子。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听列那狐的故事",
+    "entities": [
+      {
+        "type": "story_name",
+        "start_idx": 3,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "播放张勇健",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "给我们来一首小邋遢。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "给我放首英文歌。",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 4,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放单身情歌",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放寂寞的人唱着伤心的歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 11
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "讲个岳云鹏的相声",
+    "entities": [
+      {
+        "type": "crosstalk_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayFMCrosstalk"
+  },
+  {
+    "text": "tfboys歌。",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来段子，就甜蜜蜜歌曲。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "黑猫警长的歌",
+    "entities": [
+      {
+        "type": "movie_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "回音哥唱的",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "心太软歌曲",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "牧马城市",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "帮我定一个八点四十九分的闹钟",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 5,
+        "end_idx": 10
+      }
+    ],
+    "intent": "Remind"
+  },
+  {
+    "text": "朋友的心，这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "嗯，我要听勋章。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听美人鱼",
+    "entities": [
+      {
+        "type": "fiction_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayFMFiction"
+  },
+  {
+    "text": "我想听燃烧我的卡路里",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听生日甜蜜me这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "侏罗纪世界",
+    "entities": [
+      {
+        "type": "movie_name",
+        "start_idx": 0,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听许嵩;黄龄的惊鸿一面",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 4
+      },
+      {
+        "type": "singer_name",
+        "start_idx": 6,
+        "end_idx": 7
+      },
+      {
+        "type": "song_name",
+        "start_idx": 9,
+        "end_idx": 12
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放好运来",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "小冰唱一首周杰伦的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 5,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱首小苹果吧！",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听巴巴爸爸的故事",
+    "entities": [
+      {
+        "type": "story_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "我要听一首歌，好兄弟。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "妈咪宝贝。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听匆匆那年。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听神经病的歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放王绎龙的新年财运到",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      },
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听梦想家。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "给我放一首丑八怪吧！",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听seve",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听齐秦的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "帮我播放巅峰榜港台",
+    "entities": [
+      {
+        "type": "list",
+        "start_idx": 4,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱咖喱咖喱",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 1,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "神经病歌曲。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱首孙燕姿的吧",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听蓝精灵这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "不是你放的歌",
+    "entities": [],
+    "intent": "Chat"
+  },
+  {
+    "text": "我想听读者",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "林俊杰",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "提醒音乐",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "绿岛小夜曲",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放一首沙漠骆驼。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "嘿嘿明天几度呀",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "GetWeather"
+  },
+  {
+    "text": "刘涛唱的",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放梁祝",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "深圳天气怎么样",
+    "entities": [
+      {
+        "type": "location",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "GetWeather"
+  },
+  {
+    "text": "夜～夜～夜夜笙歌",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 7
+      }
+    ],
+    "intent": "Chat"
+  },
+  {
+    "text": "你和我",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "遥远的她歌词",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放祁隆的我的老家",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 3
+      },
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "断点",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱一首流行歌曲",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放一首鼓楼",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听射雕英雄传的故事",
+    "entities": [
+      {
+        "type": "story_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "来一首慢摇",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "搜索歌曲爱出发。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "如果再回到从前歌曲。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放成语故事",
+    "entities": [
+      {
+        "type": "story_tag",
+        "start_idx": 1,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "音乐拥抱着你的滋味",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "舞女",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听十万个为什么",
+    "entities": [
+      {
+        "type": "story_name",
+        "start_idx": 3,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "你好帮我播放追梦赤子心",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放说句心里话",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放龚?的轮回",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 2
+      },
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "想听雪花。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听红楼梦",
+    "entities": [
+      {
+        "type": "fiction_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayFMFiction"
+  },
+  {
+    "text": "我要听可爱的麻雀",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听听冷雨。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放孙燕姿的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "但唱山歌。",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放歌曲，中国梦。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听小手拍拍这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放画心。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来一首陷阱",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "可来听metoo。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱个演员",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听音乐之声",
+    "entities": [
+      {
+        "type": "movie_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "北京北京",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放一首春泥",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "盛夏的果实",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "搜索dj歌曲。",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听胎教音乐的歌",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放贝加尔湖畔",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "明天早上六点叫我起床",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 0,
+        "end_idx": 5
+      },
+      {
+        "type": "event",
+        "start_idx": 8,
+        "end_idx": 9
+      }
+    ],
+    "intent": "Remind"
+  },
+  {
+    "text": "扫地",
+    "entities": [],
+    "intent": "Chat"
+  },
+  {
+    "text": "播放三体",
+    "entities": [
+      {
+        "type": "fiction_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayFMFiction"
+  },
+  {
+    "text": "你好放一首错错错",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "现在温度",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "GetWeather"
+  },
+  {
+    "text": "播放一首小贱的，多喜欢你。",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 4,
+        "end_idx": 5
+      },
+      {
+        "type": "song_name",
+        "start_idx": 8,
+        "end_idx": 11
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放薛明媛的不就是落单",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      },
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听有声小说",
+    "entities": [
+      {
+        "type": "fiction_tag",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayFMFiction"
+  },
+  {
+    "text": "你休眠",
+    "entities": [],
+    "intent": "ControlSystem"
+  },
+  {
+    "text": "唱陈翔的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 1,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听今生遇见你，歌曲。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "成都歌曲在线听",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "给我听一首魔法城堡的歌吧！",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听恭喜发财",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "念念",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "搜索童心是小鸟歌曲。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听，昨夜的星辰这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听王筝的我们都是好孩子",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 4
+      },
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 12
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来一首faded",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱个龚琳娜的忐忑",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      },
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "小欧，给我播放一首音乐名字叫青春修炼手册。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 14,
+        "end_idx": 19
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听猪之歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听伊索寓言",
+    "entities": [
+      {
+        "type": "story_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "唱流行歌曲。",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 1,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "刚刚想听小苹果。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你让不让我听宠爱？",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "新歌",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "偶像万万岁歌曲",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "请播放黄家驹的歌曲",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来首东邪西毒",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播个轻音乐",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来一首刀郎的music",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "歌曲美美哒。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "明天延吉天气",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 0,
+        "end_idx": 1
+      },
+      {
+        "type": "location",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "GetWeather"
+  },
+  {
+    "text": "我要听玖月花儿与筝的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱走天涯。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 1,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放一首挚爱。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听邓紫棋的光年之外",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      },
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放赵雷的歌。",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱莫文蔚的吧",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 1,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你会唱红星歌吗？",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放一首九八k",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听忘情水，这首了。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听林中鸟的。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放歌曲hello。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "明天早上六点二十叫我起床",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 0,
+        "end_idx": 7
+      },
+      {
+        "type": "event",
+        "start_idx": 10,
+        "end_idx": 11
+      }
+    ],
+    "intent": "Remind"
+  },
+  {
+    "text": "该给我听萤火虫吗？",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听站台。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你会唱蔡依林的歌吗？",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "贝瓦儿歌拔萝卜",
+    "entities": [
+      {
+        "type": "album_name",
+        "start_idx": 0,
+        "end_idx": 3
+      },
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听简弘亦的不染",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      },
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来首左肩",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听走马",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "那好播放北京欢迎你",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "黄土高坡",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听演员。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放国士无双韩信",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听一亿个伤心这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱首杨丞琳的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要，听小苹果。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听运动音乐",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听陷阱",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "毛不易消愁",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 2
+      },
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱一首许巍的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱一首忐忑，给我们听听。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你的选择没有错歌曲。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "请播卡路里",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "emma",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "Chat"
+  },
+  {
+    "text": "我要听一首小冒险家的歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "歌曲天路。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放邓紫棋的倒数",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      },
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放独行侠",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放许嵩的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放我的声音。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "听书",
+    "entities": [],
+    "intent": "PlayFMFiction"
+  },
+  {
+    "text": "我要听剑心。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱老司机带带我",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 1,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "听我们的。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 1,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "今天上海的天气怎么样",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 0,
+        "end_idx": 1
+      },
+      {
+        "type": "location",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "GetWeather"
+  },
+  {
+    "text": "我要听lemon的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "漫步人生路",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放放飞梦想。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱见河图",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 1
+      },
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "给我讲个儿童故事",
+    "entities": [
+      {
+        "type": "story_tag",
+        "start_idx": 4,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "我想听贝瓦儿歌",
+    "entities": [
+      {
+        "type": "album_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放来吧冠军",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听男神这首歌曲。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听阿悄的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "琅琊榜主题曲",
+    "entities": [
+      {
+        "type": "album_name",
+        "start_idx": 0,
+        "end_idx": 2
+      },
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要搜索歌曲，小精灵。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你给我挑一首丢手绢的歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "燃烧卡路里",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听琵琶行",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听火火兔儿歌",
+    "entities": [
+      {
+        "type": "album_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "云上太阳歌曲",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "花千骨歌曲年轮。",
+    "entities": [
+      {
+        "type": "album_name",
+        "start_idx": 0,
+        "end_idx": 2
+      },
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你好给我们说一下今天的天气情况",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 8,
+        "end_idx": 9
+      }
+    ],
+    "intent": "GetWeather"
+  },
+  {
+    "text": "声音的歌",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听擦皮鞋。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听白雪公主",
+    "entities": [
+      {
+        "type": "story_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "jay的歌曲。",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放安眠曲。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "听周杰伦的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 1,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放灰姑娘",
+    "entities": [
+      {
+        "type": "story_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "我想听7月上这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "给我唱首喝吧",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "搜索歌曲女儿情。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听彩铃。",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "周华健",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听给你们这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放邂逅",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听花样年华",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听故事永远的公主",
+    "entities": [
+      {
+        "type": "story_name",
+        "start_idx": 5,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "你会唱儿歌吗？",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放张韶涵的阿刁",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      },
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "要听蝴蝶飞。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放水手",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听周杰伦",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听小姐。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放李白",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "听恶人",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 1,
+        "end_idx": 2
+      }
+    ],
+    "intent": "Chat"
+  },
+  {
+    "text": "二十分钟后停止播放",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 0,
+        "end_idx": 4
+      }
+    ],
+    "intent": "ControlSystem"
+  },
+  {
+    "text": "社会摇的歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱个东北二人转。",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 2,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "薛之谦的歌会唱吗？",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "数星星",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱一首好宝宝",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听，敖包相会。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听追梦赤子心",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "请播放儿童歌曲",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来首林俊杰的",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听龙梅子唱的",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放劲爆音乐",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "敢问路在何方",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放童年",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听任贤齐的弱水",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      },
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "大海航行靠舵手",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "听听一首歌，被。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听广东爱情故事",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听最新的泰语歌",
+    "entities": [
+      {
+        "type": "ranking",
+        "start_idx": 3,
+        "end_idx": 4
+      },
+      {
+        "type": "song_language",
+        "start_idx": 6,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来一首美女吗？",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放一年级的小豆豆",
+    "entities": [
+      {
+        "type": "story_name",
+        "start_idx": 2,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "殇雪，歌曲",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱陈奕迅的..",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 1,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "歌曲，高天上流云。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "生活不止眼前的苟且",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "那你能放小苹果的歌吗？",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放青春",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来首刘若英的后来",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      },
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "给我唱首小苹果。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来一首经典老歌",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "今天的天气情况怎么样",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "GetWeather"
+  },
+  {
+    "text": "播放段子来了",
+    "entities": [
+      {
+        "type": "joke_name",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayFMJoke"
+  },
+  {
+    "text": "唱李玉刚的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 1,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听偏偏喜欢你",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱一首新红旗。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来一首摇篮曲",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "明天深圳天气怎么样",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 0,
+        "end_idx": 1
+      },
+      {
+        "type": "location",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "GetWeather"
+  },
+  {
+    "text": "我想听童年。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我怎么这么好看",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听国歌",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听徐誉滕的天使的翅膀",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      },
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 11
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "弈剑听雨阁",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听狂浪",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "陈晓东的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放天空之城。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "打开背景音乐",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听奏是你这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "带我到山顶的歌曲。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "请搜索家乡这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听你唱失落沙洲",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听宣战。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "帮我换一首小苹果。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听葫芦娃这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱一首熊出没。",
+    "entities": [
+      {
+        "type": "album_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "不是那个",
+    "entities": [],
+    "intent": "ControlSystem"
+  },
+  {
+    "text": "轻音乐。",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "花好月圆的歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "请给我说说李小龙这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放吴克群的你敢不敢再傻一次",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      },
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 13
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱首林俊杰的“记得”",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      },
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "三十分钟后关闭音乐",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 0,
+        "end_idx": 4
+      }
+    ],
+    "intent": "ControlSystem"
+  },
+  {
+    "text": "把bigbang的谎言这首歌发过来",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 1,
+        "end_idx": 7
+      },
+      {
+        "type": "song_name",
+        "start_idx": 9,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听那些年。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "帮我播放郑少秋的男人四十一枝花",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 4,
+        "end_idx": 6
+      },
+      {
+        "type": "song_name",
+        "start_idx": 8,
+        "end_idx": 14
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听有何不可",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱一首最炫民族风。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱费玉清的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 1,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱一首牧羊曲。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "高清放一首老婆最大。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "安娜的橱窗。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "乐作人生",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来一首逆态度。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听齐豫的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "给我讲个睡前故事",
+    "entities": [
+      {
+        "type": "story_tag",
+        "start_idx": 4,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "侃侃的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "王菲演唱会。",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 1
+      },
+      {
+        "type": "song_type",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听光年之外",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "周杰伦第一首歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱首洪湖水。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放high歌",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 1,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱一首那英的歌给我听",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "适合伤感时听的歌",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "笨小孩",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听残雪。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我还想知道初音姐姐的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 5,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听摇滚抒情的歌",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 4
+      },
+      {
+        "type": "song_type",
+        "start_idx": 5,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放原声侠的羊被人吃了",
+    "entities": [
+      {
+        "type": "joke_tag",
+        "start_idx": 2,
+        "end_idx": 4
+      },
+      {
+        "type": "joke_name",
+        "start_idx": 6,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayFMJoke"
+  },
+  {
+    "text": "播放陈粒的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "想听就是爱。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "你为了爱情，黎姿唱的",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 4
+      },
+      {
+        "type": "singer_name",
+        "start_idx": 6,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "快唱许嵩的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听北京东路的日子。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放原声侠的随军记者报道",
+    "entities": [
+      {
+        "type": "joke_tag",
+        "start_idx": 2,
+        "end_idx": 4
+      },
+      {
+        "type": "joke_name",
+        "start_idx": 6,
+        "end_idx": 11
+      }
+    ],
+    "intent": "PlayFMJoke"
+  },
+  {
+    "text": "我要听，不要忘记我爱你！",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "白狐歌手陈瑞。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 1
+      },
+      {
+        "type": "singer_name",
+        "start_idx": 4,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "分手快乐",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听林俊杰的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听传奇",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听npc的歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放又见山里红",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听失恋阵线联盟",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "林俊杰。",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "请播放邓丽君的我只在乎你",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      },
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 11
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "白月光",
+    "entities": [
+      {
+        "type": "story_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "播放歌曲,小苹果。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "歌名是演员",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱首周杰伦的《晴天》吧！",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      },
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听弟子规。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "不必在乎我是谁",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "北京天气怎么样",
+    "entities": [
+      {
+        "type": "location",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "GetWeather"
+  },
+  {
+    "text": "蒙语歌",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放鲁冰花",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来一首李白的诗",
+    "entities": [
+      {
+        "type": "author_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayPoem"
+  },
+  {
+    "text": "播放的陨落的天才",
+    "entities": [
+      {
+        "type": "fiction_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayFMFiction"
+  },
+  {
+    "text": "听催眠曲",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 1,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "念三字经",
+    "entities": [
+      {
+        "type": "poem_name",
+        "start_idx": 1,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayPoem"
+  },
+  {
+    "text": "我要听上学歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "明天新疆的天气",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 0,
+        "end_idx": 1
+      },
+      {
+        "type": "location",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "GetWeather"
+  },
+  {
+    "text": "我想听徐佳莹的失落沙洲",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      },
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "黑豹乐队",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来一首喊麦",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听青鸟",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "请播放白雪公主",
+    "entities": [
+      {
+        "type": "movie_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "金刚经",
+    "entities": [
+      {
+        "type": "poem_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayPoem"
+  },
+  {
+    "text": "我想听年轮这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "高山流水歌",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱一个pps。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "回忆总想哭",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放半壶纱",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "??来一首纤夫的爱",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "loving",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听陈奕迅",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "歌曲活出个样来给自己看。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听小红帽的歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱《我是女生》",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "齐秦的夜夜夜夜",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 0,
+        "end_idx": 1
+      },
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "咖啡馆音乐",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "因为爱你王菲唱的。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 3
+      },
+      {
+        "type": "singer_name",
+        "start_idx": 4,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来一首唐诗",
+    "entities": [
+      {
+        "type": "poem_tag",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayPoem"
+  },
+  {
+    "text": "你给我，听个dj的歌。",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 6,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放一首high歌",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "来一首歌拍气球。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "换一首逆战吧！",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱周传雄的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 1,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "给我唱薛之谦的歌吧",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放七里香",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "明天天气怎么样啊",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "GetWeather"
+  },
+  {
+    "text": "一分钟后提醒我喝水",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 0,
+        "end_idx": 2
+      },
+      {
+        "type": "event",
+        "start_idx": 7,
+        "end_idx": 8
+      }
+    ],
+    "intent": "Remind"
+  },
+  {
+    "text": "明天天气咋样",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "GetWeather"
+  },
+  {
+    "text": "等你等了那么久这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听有点意思。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播哪一个轻音乐",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 4,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放王北车的姑娘",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      },
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "方清平的相声",
+    "entities": [
+      {
+        "type": "actor_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayFMCrosstalk"
+  },
+  {
+    "text": "理由听",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我爱我的家",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放米小圈",
+    "entities": [
+      {
+        "type": "story_tag",
+        "start_idx": 1,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "播放童安格的歌曲",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放采蘑菇的小姑娘",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "会唱小酒窝吗？",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱歌我好想你",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放今夜无眠",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放杨坤的站台",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 3
+      },
+      {
+        "type": "song_name",
+        "start_idx": 5,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听萨克斯回家",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 5
+      },
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听小猪",
+    "entities": [
+      {
+        "type": "story_tag",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "播放时政新闻",
+    "entities": [
+      {
+        "type": "news_tag",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "GetNews"
+  },
+  {
+    "text": "一百万个可能",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听神经病。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放一首韩语歌曲你最红",
+    "entities": [
+      {
+        "type": "song_language",
+        "start_idx": 4,
+        "end_idx": 5
+      },
+      {
+        "type": "song_name",
+        "start_idx": 8,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "风筝误",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放海绵宝宝",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放电音歌曲",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听马良的往后余生",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 4
+      },
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听七月上首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "给我唱首小幸运吧",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放一首流行歌曲",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 4,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听恭喜恭喜。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "小欧，给我唱首天使的翅膀歌曲。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 11
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "今天的热点",
+    "entities": [
+      {
+        "type": "news_time",
+        "start_idx": 0,
+        "end_idx": 1
+      },
+      {
+        "type": "news_tag",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "GetNews"
+  },
+  {
+    "text": "放一首吴青峰的起风了",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      },
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 9
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听孙子涵的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放一百万个可能",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "能不能太好听啦，你给我，唱一首小苹果吗？",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 15,
+        "end_idx": 17
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "阿里山的姑娘",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "八点半叫我起床",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 0,
+        "end_idx": 2
+      },
+      {
+        "type": "event",
+        "start_idx": 5,
+        "end_idx": 6
+      }
+    ],
+    "intent": "Remind"
+  },
+  {
+    "text": "播放小苹果",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "音乐有点甜。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听蔡琴的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听弟子规",
+    "entities": [
+      {
+        "type": "poem_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayPoem"
+  },
+  {
+    "text": "我想听轻音乐",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听圣诞节歌曲。",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱唱童话",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听大梦想家",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放宋冬野的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听张宇的给你们",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 4
+      },
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听我的世界",
+    "entities": [
+      {
+        "type": "story_tag",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "明天九点叫我起床",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 0,
+        "end_idx": 3
+      },
+      {
+        "type": "event",
+        "start_idx": 6,
+        "end_idx": 7
+      }
+    ],
+    "intent": "Remind"
+  },
+  {
+    "text": "我说求你帮我搜一下左手右手这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 9,
+        "end_idx": 12
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "纸短情长",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "中国歌",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我要听我要听故事小猪佩奇",
+    "entities": [
+      {
+        "type": "story_name",
+        "start_idx": 8,
+        "end_idx": 11
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "想听周杰伦的稻香",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      },
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听莫文蔚的扶摇",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 5
+      },
+      {
+        "type": "song_name",
+        "start_idx": 7,
+        "end_idx": 8
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听红色高跟鞋",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱认错",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 1,
+        "end_idx": 2
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放罗大佑的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "请播放离人愁",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放多喜欢你",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 2,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "那你唱一首儿歌送给我",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 5,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "播放热门歌曲",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "听伤不起。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 1,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "认真的回答，我想听你说这首歌。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 6,
+        "end_idx": 10
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱首儿歌。",
+    "entities": [
+      {
+        "type": "song_type",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听故事灰姑娘",
+    "entities": [
+      {
+        "type": "story_name",
+        "start_idx": 5,
+        "end_idx": 7
+      }
+    ],
+    "intent": "PlayFMStory"
+  },
+  {
+    "text": "我要听红豆",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "我想听，逆战。",
+    "entities": [
+      {
+        "type": "song_name",
+        "start_idx": 4,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "推荐几首陈奕迅的歌",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 4,
+        "end_idx": 6
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "唱一首云飞的歌呗",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "放周杰伦的歌曲",
+    "entities": [
+      {
+        "type": "singer_name",
+        "start_idx": 1,
+        "end_idx": 3
+      }
+    ],
+    "intent": "PlayMusic"
+  },
+  {
+    "text": "那我定明天早晨五点的闹钟",
+    "entities": [
+      {
+        "type": "date",
+        "start_idx": 3,
+        "end_idx": 8
+      }
+    ],
+    "intent": "Remind"
+  },
+  {
+    "text": "请播放郭德纲的相声",
+    "entities": [
+      {
+        "type": "crosstalk_name",
+        "start_idx": 3,
+        "end_idx": 5
+      }
+    ],
+    "intent": "PlayFMCrosstalk"
+  }
+]
