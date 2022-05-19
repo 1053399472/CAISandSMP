@@ -47,7 +47,7 @@
 
 - CAIS：
 
-CAIS Origin from the paper[ CM-Net: A Novel Collaborative Memory Network for Spoken Language Understanding](https://arxiv.org/abs/1909.06937#:~:text=Title%3ACM-Net%3A A Novel Collaborative Memory Network for Spoken,filling%2C which are generally modeled jointly in existing)，CAIS dataset includes 7,995 training, 994 validation and 1024 test utterances.Original data can be downloaded from [Github](https://github.com/Adaxry/CM-Net)
+*CAIS Origin from the paper[ CM-Net: A Novel Collaborative Memory Network for Spoken Language Understanding](https://arxiv.org/abs/1909.06937#:~:text=Title%3ACM-Net%3A )，CAIS dataset includes 7,995 training, 994 validation and 1024 test utterances.Original data can be downloaded from [Github](https://github.com/Adaxry/CM-Net)*
 
  
 
@@ -61,7 +61,7 @@ CAIS Origin from the paper[ CM-Net: A Novel Collaborative Memory Network for Spo
 
 - SMP：
 
-SMP comes from[8th National Social Media Processing Conference (SMP 2019)](https://mp.weixin.qq.com/s/Gij10octDVBHjgKy1plXaQ)和[Ninth National Social Media Processing Conference (SMP 2020))](https://smp2020.aconf.cn/smp.html#3)Evaluate Chinese Dialogue Technology  (ECDT) task.Because the competition has ended, it is divided into the training datasets。According to the number of intentions, the original training set is divided into a training set at the ratio of 8: 1: 1, and the verification set and test set。SMP2019 dataset includes 2,053 training, 256 validation and 270 test utterances.SMP2020 dataset includes 4,011 training, 493 validation and 520 test utterances.
+*SMP comes from[8th National Social Media Processing Conference (SMP 2019)](https://mp.weixin.qq.com/s/Gij10octDVBHjgKy1plXaQ)和[Ninth National Social Media Processing Conference (SMP 2020))](https://smp2020.aconf.cn/smp.html#3)Evaluate Chinese Dialogue Technology  (ECDT) task.Because the competition has ended, it is divided into the training datasets。According to the number of intentions, the original training set is divided into a training set at the ratio of 8: 1: 1, and the verification set and test set。SMP2019 dataset includes 2,053 training, 256 validation and 270 test utterances.SMP2020 dataset includes 4,011 training, 493 validation and 520 test utterances.*
 
 
 
