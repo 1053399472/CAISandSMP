@@ -1,6 +1,5 @@
 # CAIS and SMP
 
-------
 
 ## Directory
 
