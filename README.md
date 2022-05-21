@@ -64,13 +64,13 @@
 
 ####  CAIS baseline
 
-|          model           | Slot(F1) | Intent(Acc) | Overall |
-| :----------------------: | :------: | :---------: | :-----: |
-|        Slot-Gated        |          |             |         |
-|      SF-ID Network       |          |             |         |
-|          CM-Net          |  86.16   |    94.56    |    -    |
-|    Stack-Propagation     |          |             |         |
-| Multi-Level Word Adapter |          |             |         |
+|                            model                             | Slot(F1) | Intent(Acc) | Overall |
+| :----------------------------------------------------------: | :------: | :---------: | :-----: |
+|                          Slot-Gated                          |          |             |         |
+|                        SF-ID Network                         |          |             |         |
+| [CM-Net](https://arxiv.org/abs/1909.06937#:~:text=Title%3ACM-Net%3A) |  86.16   |    94.56    |    -    |
+|                      Stack-Propagation                       |          |             |         |
+| [Multi-Level Word Adapter](https://github.com/1053399472/MLWA-Chinese-SLU-baseline-) |  88.57   |    94.66    |  85.47  |
 
 - ### SMP：
 
@@ -78,20 +78,20 @@
 
 ####  SMP2019 baseline
 
-|          model           | Slot(F1) | Intent(Acc) | Overall |
-| :----------------------: | :------: | :---------: | :-----: |
-|        Slot-Gated        |          |             |         |
-|      SF-ID Network       |          |             |         |
-|          CM-Net          |    -     |      -      |    -    |
-|    Stack-Propagation     |          |             |         |
-| Multi-Level Word Adapter |          |             |         |
+|                            model                             | Slot(F1) | Intent(Acc) | Overall |
+| :----------------------------------------------------------: | :------: | :---------: | :-----: |
+|                          Slot-Gated                          |          |             |         |
+|                        SF-ID Network                         |          |             |         |
+| [CM-Net](https://arxiv.org/abs/1909.06937#:~:text=Title%3ACM-Net%3A) |    -     |      -      |    -    |
+|                      Stack-Propagation                       |          |             |         |
+| [Multi-Level Word Adapter](https://github.com/1053399472/MLWA-Chinese-SLU-baseline-) |  73.60   |    93.37    |  70.0   |
 
 ####  SMP2020 baseline
 
-|          model           | Slot(F1) | Intent(Acc) | Overall |
-| :----------------------: | :------: | :---------: | :-----: |
-|        Slot-Gated        |          |             |         |
-|      SF-ID Network       |          |             |         |
-|          CM-Net          |    -     |      -      |    -    |
-|    Stack-Propagation     |          |             |         |
-| Multi-Level Word Adapter |          |             |         |
+|                            model                             | Slot(F1) | Intent(Acc) | Overall |
+| :----------------------------------------------------------: | :------: | :---------: | :-----: |
+|                          Slot-Gated                          |          |             |         |
+|                        SF-ID Network                         |          |             |         |
+| [CM-Net](https://arxiv.org/abs/1909.06937#:~:text=Title%3ACM-Net%3A) |    -     |      -      |    -    |
+|                      Stack-Propagation                       |          |             |         |
+| [Multi-Level Word Adapter](https://github.com/1053399472/MLWA-Chinese-SLU-baseline-) |  84.32   |    96.34    |  80.76  |
