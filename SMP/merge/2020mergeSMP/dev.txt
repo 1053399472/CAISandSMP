@@ -2686,7 +2686,7 @@ QUERY
 求	O
 医	O
 吗	O
- 	O
+#	O
 QUERY
 
 给	O

@@ -18651,7 +18651,7 @@ QUERY
 结	O
 婚	O
 吗	O
- 	O
+#	O
 QUERY
 
 好	B-scoreDescr
