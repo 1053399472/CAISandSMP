@@ -95,3 +95,5 @@
 | [CM-Net](https://arxiv.org/abs/1909.06937#:~:text=Title%3ACM-Net%3A) |     -     |      -      |      -       |
 | [Stack-Propagation](https://github.com/1053399472/StackPropagation-SLU) |   82.50   |    94.03    |    76.15     |
 | [Multi-Level Word Adapter](https://github.com/1053399472/MLWA-Chinese-SLU-baseline-) | **84.32** |  **96.34**  |  **80.76**   |
+
+*The detailed code of our paper will be uploaded soon.*
